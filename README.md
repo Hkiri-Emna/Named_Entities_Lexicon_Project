@@ -6,8 +6,8 @@ Named entity recognition is the problem of locating and categorizing atomic enti
 this is a bilingual Arabic-ENglish Named entity Lexicon. this ressource was developped by Hkiri Emna
 
 
-Named entities	Arabic-English Pairs
+Named entities (person,organisation and location) Arabic-English Pairs
 Person	27480
 Organization	17237
 Location	 4036
-Overall	48753
+Overall	Arabic-English Pairs 48753
